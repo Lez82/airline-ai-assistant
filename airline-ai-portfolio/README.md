@@ -12,7 +12,7 @@ A smart AI chatbot that helps airline customers with baggage policies, flight ch
  🚀 Quick Start
 ```bash
 # Run locally
-git clone https://github.com/yourusername/airline-ai-assistant
+git clone https://github.com/lez82/airline-ai-assistant
 cd airline-ai-assistant
 python src/assistant.py
 [Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
@@ -23,7 +23,23 @@ python src/assistant.py
 # 🎯 Try It Yourself
 ```bash
 # Run the assistant locally
-git clone https://github.com/yourusername/airline-ai-assistant
+git clone https://github.com/lez82/airline-ai-assistant
 cd airline-ai-assistant
 python src/assistant.py
 # Then open http://localhost:8000 in your browser
+# 🛫 PacificBlue Airlines AI Assistant
+
+# 🎯 Live Demo
+🚀 **Try it now:** (https://cute-duckanoo-f8260a.netlify.app/)
+
+# 📸 Live Preview
+[Live Demo](images/demo-main.png)
+Actual deployed application - click the link above to try it!*
+
+# 🚀 Local Development
+```bash
+# For full AI functionality (Python backend):
+git clone https://github.com/lez82/airline-ai-assistant
+cd airline-ai-assistant
+python src/assistant.py
+# Open http://localhost:8000
