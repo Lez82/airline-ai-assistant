@@ -15,3 +15,6 @@ A smart AI chatbot that helps airline customers with baggage policies, flight ch
 git clone https://github.com/yourusername/airline-ai-assistant
 cd airline-ai-assistant
 python src/assistant.py
+[Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+[Flask](https://img.shields.io/badge/Flask-2.3+-green.svg) 
+[Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)
