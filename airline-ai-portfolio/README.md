@@ -22,7 +22,7 @@ A smart AI chatbot that helps airline customers with baggage policies, flight ch
 Actual deployed application - click the link above to try it!*
 
 # 🎯 Live Demo
-🚀 **Try it now:** (https://cute-duckanoo-f8260a.netlify.app/)
+🚀 **Try it now:** [https://cute-duckanoo-f8260a.netlify.app/](https://cute-duckanoo-f8260a.netlify.app/)
 
 # 📸 Demo Preview
 ![Chat Interface](images/demo-main.png)
