@@ -1,0 +1,34 @@
+{
+    "faqs": [
+      {
+        "question": "What is PacificBlue's baggage allowance?",
+        "answer": "Economy class: 1 carry-on (7kg) + 1 personal item. Business class: 2 carry-ons (14kg total) + 1 personal item. Checked baggage starts at 23kg for economy.",
+        "category": "baggage",
+        "keywords": ["baggage", "luggage", "carry on", "suitcase", "weight"]
+      },
+      {
+        "question": "How can I change my flight?",
+        "answer": "You can change flights online up to 24 hours before departure through our website or mobile app. Fees may apply depending on fare type.",
+        "category": "booking",
+        "keywords": ["change", "flight", "modify", "reservation", "ticket"]
+      },
+      {
+        "question": "What is your check-in policy?",
+        "answer": "Online check-in opens 24 hours before flight and closes 2 hours before departure. Airport check-in closes 45 minutes before departure.",
+        "category": "checkin",
+        "keywords": ["check in", "check-in", "boarding", "airport"]
+      },
+      {
+        "question": "Do you offer refunds for cancelled flights?",
+        "answer": "Full refunds for cancellations by PacificBlue. For passenger cancellations, refunds depend on fare type. Flexible fares are fully refundable.",
+        "category": "refunds",
+        "keywords": ["refund", "cancel", "cancellation", "money back"]
+      },
+      {
+        "question": "What amenities are included?",
+        "answer": "All flights include complimentary snacks and non-alcoholic drinks. International flights include meals, entertainment, and blanket kits.",
+        "category": "amenities",
+        "keywords": ["food", "meal", "entertainment", "wifi", "drink", "snack"]
+      }
+    ]
+  }
