@@ -18,6 +18,6 @@ Easy Integration** - REST API for corporate systems
 
 🚀 Quick Start
 ```bash
-git clone https://github.com/yourusername/airline-ai-assistant
+git clone https://github.com/lez82/airline-ai-assistant
 cd airline-ai-assistant
 docker-compose up
